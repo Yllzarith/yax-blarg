@@ -8,9 +8,10 @@
 		"Contact"
 	],
 	"p2_image": "https://picsum.photos/400",
-	"p2_headline": "About",
+	"p2_headline": "Huh?",
 	"p2_content": "<p>Edit here. Use the link <a href=\"?login\">?login</a> to see the edit toolbar.</p>\n<ul>\n<li style=\"text-align: left;\">I'm amazed.</li>\n</ul>",
 	"p1_image": "https://picsum.photos/400",
 	"p1_headline": "CSS Forest: Bootstrap",
-	"p1_content": "<p>Edit here. Use the link <a href=\"?login\">?login</a> to see the edit toolbar.</p>"
+	"p1_content": "<p>Edit here. Use the link <a href=\"?login\">?login</a> to see the edit toolbar.</p>",
+	"p2_subline": "subline"
 }
